@@ -1,5 +1,5 @@
 # Arduino-PiezoBuzzer
-This code assumes you have a 16x2 LCD screen, piezo buzzer, and push button.
+This code assumes you have a 16x2 LCD screen, piezo buzzer, and push button.\n
 The LCD screen is only used to display some text.
 The push button is used to repeat the song again.
 The piezo buzzer plays the song.
